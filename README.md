@@ -96,5 +96,5 @@ diagnostic_checksum/
 | ☐ Writing Line Results | Creates or overwrites `checksum_results.txt` and writes each calculated line difference on its own line. | 3 |
 | ☐ Writing the Final Result | Writes the final checksum to the end of `checksum_results.txt` in the required format. | 2 |
 | ☐ Sample Verification | When run using `checksum_sample.txt`, produces the four expected differences and a checksum of `46`. | 1 |
-| ☐ File Structure | Uses the required `main.py`, input `.txt` file, and `checksum_results.txt` file structure. | 1 |
+| ☐ File Structure | Uses the required `diagnostic_checksum/main.py`, input `.txt` file, and `checksum_results.txt` file structure. | 1 |
 |  | **Total** | **20** |
